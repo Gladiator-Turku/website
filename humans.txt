@@ -1,0 +1,11 @@
+# humanstxt.org/
+
+# TEAM
+
+    Roman Hnatiuk -- Web Master -- @rhnatiuk
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, JavaScript
+    Pure CSS
+    Normalize.css, jQuery, Modernizr

@@ -1,0 +1,59 @@
+body {
+//    font-family: sans-serif;
+    color: #555;
+}
+
+h1, h2, h3 {
+    font-weight: 300;
+    color: rgb(75, 75, 75);
+}
+h3 {
+    font-size: 1.25em;
+}
+
+a {
+    color: #3b8bba;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #265778;
+}
+
+.header {
+     min-height: 80px;
+     margin: 3em 0 10em 0;
+     color: #333;
+     padding: 1em;
+     text-align: center;
+     background: #fff;
+}
+.header h1 {
+	margin: 1em 0 0 0;
+        font-weight: 300;
+        font-size: 3em;
+        color: #666;
+}
+.header h2 {
+        margin: 0;
+        font-weight: 300;
+        color: #999;
+}
+
+.content {
+    margin: 0 auto;
+    width: 60%;
+    margin-bottom:50px;
+}
+.content p {
+        line-height: 1.6em;
+        font-size: 1.125em;
+}
+.content .content-subhead {
+        margin: 50px 0 20px 0;
+        font-weight: 300;
+        color: #555;
+}
+.content .content-spaced {
+        line-height: 1.8em;
+}

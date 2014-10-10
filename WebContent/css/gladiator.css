@@ -57,3 +57,17 @@ a:visited {
 .content .content-spaced {
         line-height: 1.8em;
 }
+
+legend {
+    font-weight: normal;
+    font-size: 22px;
+    font-family: verdana, arial, helvetica, sans-serif;
+    line-height: 25px;
+}
+
+fieldset {
+    padding: 20px;
+    background: white;
+    margin: 20px;
+}
+

@@ -13,7 +13,7 @@ h3 {
 
 a {
     color: #3b8bba;
-    text-decoration: none;
+/*    text-decoration: none;*/
 }
 
 a:visited {
@@ -22,9 +22,9 @@ a:visited {
 
 .header {
      min-height: 80px;
-     margin: 3em 0 10em 0;
+     margin: 0em 0 0em 0;
      color: #333;
-     padding: 1em;
+     padding: 2em;
      text-align: center;
      background: #fff;
 }
@@ -35,22 +35,22 @@ a:visited {
         color: #666;
 }
 .header h2 {
-        margin: 0;
+        margin: 1em 0 0 0;
         font-weight: 300;
         color: #999;
 }
 
 .content {
     margin: 0 auto;
-    width: 60%;
-    margin-bottom:50px;
+    width: 90%;
+    margin-bottom: 20px;
 }
 .content p {
         line-height: 1.6em;
         font-size: 1.125em;
 }
 .content .content-subhead {
-        margin: 50px 0 20px 0;
+        margin: 20px 0 20px 0;
         font-weight: 300;
         color: #555;
 }
@@ -67,6 +67,5 @@ legend {
 
 fieldset {
     padding: 20px;
-    background: white;
     margin: 20px;
 }

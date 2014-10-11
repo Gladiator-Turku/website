@@ -4,6 +4,9 @@
 
     Roman Hnatiuk -- Web Master -- @rhnatiuk
 
+# Gladiator-Turku.com team
+    Mikko Vedru -- Random Coder
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, JavaScript

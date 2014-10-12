@@ -45,9 +45,9 @@ a:visited {
     color: #666;
 }
 .header h2 {
-        margin: 0em 0 0 0;
-        font-weight: 300;
-        color: #999;
+    margin: 0em 0 0 0;
+    font-weight: 300;
+    color: #999;
 }
 
 .content {
@@ -61,12 +61,12 @@ a:visited {
     /*font-size: 1.125em;*/
 }
 .content .content-subhead {
-        margin: 60px 0 20px 0;
-        font-weight: 300;
-        color: #555;
+    margin: 60px 0 20px 0;
+    font-weight: 300;
+    color: #555;
 }
 .content .content-spaced {
-        line-height: 1.8em;
+    line-height: 1.8em;
 }
 
 legend {
@@ -79,4 +79,10 @@ legend {
 fieldset {
     padding: 20px;
     margin: 20px;
+}
+.footer {
+    margin: 0 auto;
+    width: 90%;
+    margin-bottom: 20px;
+    text-align: center;
 }

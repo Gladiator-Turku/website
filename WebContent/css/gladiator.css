@@ -29,18 +29,6 @@ a:visited {
     color: #265778;
 }
 
-fieldset {
-    padding: 20px;
-    margin: 20px;
-}
-
-legend {
-    font-weight: normal;
-    font-size: 22px;
-    font-family: verdana, arial, helvetica, sans-serif;
-    line-height: 25px;
-}
-
 .header {
     min-height: 80px;
     color: #333;

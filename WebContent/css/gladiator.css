@@ -36,6 +36,11 @@ a:visited {
     text-align: center;
     background: #fff;
 }
+
+.header .logo {
+    width: 20%;
+    height: 20%;
+}
 .header h1 {
     margin-top: 0;
     margin-bottom: 0;
@@ -84,4 +89,13 @@ a:visited {
     margin: 0 auto;
     margin-bottom: 20px;
     text-align: center;
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 15px;
+  }
+  .header .logo {
+      width: 100%;
+  }
 }

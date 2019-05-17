@@ -67,6 +67,19 @@ a:visited {
     line-height: 1.8em;
 }
 
+.content .iframe-cont {
+    text-align: center;
+}
+
+.content .iframe-cont iframe {
+    display: inline-block;
+    border: 0px;
+    max-width: 100%;
+}
+
+.content address img {
+    float: right;
+}
 .footer {
     margin: 0 auto;
     margin-bottom: 20px;

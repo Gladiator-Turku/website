@@ -32,9 +32,14 @@ a:visited {
 .header {
     min-height: 80px;
     color: #333;
-    padding: 1em;
+    padding: 1em 1em 0em;
     text-align: center;
     background: #fff;
+}
+
+.header .logo {
+    width: 20%;
+    height: 20%;
 }
 .header h1 {
     margin-top: 0;
@@ -67,8 +72,30 @@ a:visited {
     line-height: 1.8em;
 }
 
+.content .iframe-cont {
+    text-align: center;
+}
+
+.content .iframe-cont iframe {
+    display: inline-block;
+    border: 0px;
+    max-width: 100%;
+}
+
+.content address img {
+    float: right;
+}
 .footer {
     margin: 0 auto;
     margin-bottom: 20px;
     text-align: center;
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 15px;
+  }
+  .header .logo {
+      width: 100%;
+  }
 }
